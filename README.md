@@ -3,6 +3,9 @@
   Logiciel d'Aide à la Libération de Forumactif  
   Copyright ©2011 Roromis  
   http://www.le-lalf.fr.nf  
+  
+## BossBravo
+  Version Modifiée par mes soins pour une adaptation personelle.
 
 ## Note importante
 
